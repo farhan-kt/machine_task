@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642356248753",
+    "project_id": "kayla-appointments",
+    "storage_bucket": "kayla-appointments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642356248753:android:140518a63b6b836f6e6290",
+        "android_client_info": {
+          "package_name": "com.example.kayla_machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7MUYDygBHX5JbA096rPnv9E3nSSm9B7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
